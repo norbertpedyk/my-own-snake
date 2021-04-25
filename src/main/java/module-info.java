@@ -1,4 +1,4 @@
 module pl.sdacademy {
     requires javafx.controls;
-    exports pl.sdacademy.snake;
+    exports pl.pedyk.snake;
 }

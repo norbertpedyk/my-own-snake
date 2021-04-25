@@ -1,4 +1,4 @@
-package pl.sdacademy.snake;
+package pl.pedyk.snake;
 
 import java.util.Objects;
 

@@ -1,4 +1,4 @@
-package pl.sdacademy.snake;
+package pl.pedyk.snake;
 
 import javafx.application.Application;
 import javafx.scene.Scene;

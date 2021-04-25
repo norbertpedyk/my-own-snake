@@ -31,7 +31,7 @@
                 <artifactId>javafx-maven-plugin</artifactId>
                 <version>0.0.4</version>
                 <configuration>
-                    <mainClass>pl.sdacademy.snake.App</mainClass>
+                    <mainClass>pl.pedyk.snake.App</mainClass>
                 </configuration>
             </plugin>
         </plugins>

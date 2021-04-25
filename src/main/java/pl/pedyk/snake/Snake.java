@@ -1,7 +1,6 @@
-package pl.sdacademy.snake;
+package pl.pedyk.snake;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 public class Snake {
